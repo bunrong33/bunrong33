@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Bunrong</h1>
-<h3 align="center">’m interested in Mathematics and coding</h3>
+<h3 align="center">I’m interested in Mathematics and coding</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
