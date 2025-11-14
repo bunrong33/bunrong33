@@ -1,6 +1,6 @@
 <h1 align="center">Hello world👋, I'm Bunrong</h1>
 <h3 align="center">I’m interested in Mathematics and coding</h3>
-<h3 align="center"> I’m currently learning data science </h3>
+<!-- <h3 align="center"> I’m currently learning data science </h3> -->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
